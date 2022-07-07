@@ -24,7 +24,7 @@ namespace MV2Rescountries.View
             loadConfiguration();
         }
 
-        private async void loadConfiguration()
+        private void loadConfiguration()
         {
 
             var pin = new Pin()
